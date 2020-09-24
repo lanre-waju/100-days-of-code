@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-## I will be participating in the #100DaysofCode Challenge. My progress will be tracked via this repository, [Twitter,](https://twitter.com/lanre__waju) [my Medium blog](https://medium.com/@fagbeyiroanthoniaolanrewaju), [my Dev.to blog](https://dev.to/lanrewaju) and [my hashnode blog](https://hashnode.com/@Lanre_waju).
+I will be participating in the #100DaysofCode Challenge. My progress will be tracked via this repository, [Twitter,](https://twitter.com/lanre__waju) [my Medium blog](https://medium.com/@fagbeyiroanthoniaolanrewaju), [my Dev.to blog](https://dev.to/lanrewaju) and [my hashnode blog](https://hashnode.com/@Lanre_waju).
 
 ## Contents
 
